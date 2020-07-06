@@ -1,15 +1,9 @@
 #include "stdafx.h"
 #include <stdio.h>
 #include "OthelloDatabase.h"
-#include "Init.h"
-#include "Display.h"
-#include "PutRelation.h"
-#include "Player.h"
-#include "Computer.h"
-#include "Result.h"
-#include "NextColor.h"
 
-/* É}ÉXï\é¶ */
+
+/* êŒÇï\é¶ */
 int displaySquare(Color square) {
 
 	switch (square) {
@@ -38,12 +32,12 @@ int display(void) {
 
 	for (y = 0; y < HEIGHT; y++) {
 
-		/* â°î‘çÜï\é¶ */
+		/* â°ç¿ïWï\é¶ */
 		if (y == 0) {
 			printf(" ÇOÇPÇQÇRÇSÇTÇUÇV\n");
 		}
 
-		/* î’î‘çÜï\é¶ */
+		/* ècç¿ïWï\é¶ */
 		for (x = 0; x < WIDTH; x++) {
 			if (x == 0) {
 				printf("%d", y);

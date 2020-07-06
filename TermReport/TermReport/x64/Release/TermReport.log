@@ -1,14 +1,9 @@
-﻿  stdafx.cpp
-  Computer.cpp
-  Display.cpp
+﻿  Display.cpp
   init.cpp
-  NextColor.cpp
-  Player.cpp
-  PutRelation.cpp
-  Result.cpp
-  TermReport.cpp
   コード生成しています。
-  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  TermReport.vcxproj -> C:\Users\hrym1\Documents\Visual Studio 2015\Projects\TermReport\x64\Release\TermReport.exe
-  TermReport.vcxproj -> C:\Users\hrym1\Documents\Visual Studio 2015\Projects\TermReport\x64\Release\TermReport.pdb (Full PDB)
+  TermReport.vcxproj -> C:\Users\hrym1\OneDrive - 同志社大学\３回生\春学期\06. プログラミングC言語Ⅱ\第12, 13, 14, 15回(期末)\TermReport\x64\Release\TermReport.exe
+  TermReport.vcxproj -> C:\Users\hrym1\OneDrive - 同志社大学\３回生\春学期\06. プログラミングC言語Ⅱ\第12, 13, 14, 15回(期末)\TermReport\x64\Release\TermReport.pdb (Full PDB)

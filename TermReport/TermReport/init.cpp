@@ -5,10 +5,8 @@
 
 /* ”Õ‚ğ‰Šú‰» */
 int init(void) {
-	int player = readInt("player", "color", "setting.ini", 0);
-	int com = readInt("computer", "color", "setting.ini", 0);
-
-	/* ”Õ–Ê‚Ì•\¦ */
+	
+	/* ”Õ–Ê‚Ì”ÍˆÍŠm•Û */
 	for (int y = 0; y < HEIGHT; y++) {
 		for (int x = 0; x < WIDTH; x++) {
 			stone[y][x] = EMPTY;

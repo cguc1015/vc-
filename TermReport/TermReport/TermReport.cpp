@@ -11,7 +11,6 @@
 #include "Computer.h"
 #include "Result.h"
 #include "NextColor.h"
-#include "Setting.h"
 
 /* ƒIƒZƒ‚Ì—¬‚ê */
 int main(void) {

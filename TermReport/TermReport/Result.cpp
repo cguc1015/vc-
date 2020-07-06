@@ -34,7 +34,7 @@ void result(const char *fileName) {
 			fprintf(fp, "あなたの勝利です！！\n");
 		}
 		else if (white_count > black_count) {
-			fprintf(fp, "COMの勝利で...。\n");
+			fprintf(fp, "COMPUTERの勝利です...。\n");
 		}
 		else {
 			fprintf(fp, "引き分けです。\n");
